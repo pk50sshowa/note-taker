@@ -9,8 +9,8 @@
         "id": "17be"
     },
     {
-        "title": "Title 1",
-        "text": "This is the title of my particular note. Let's see if it updates to db.json!",
-        "id": "e11f"
+        "title": "Another Title",
+        "text": "This is the text of a note with a title called \"Another Title\"",
+        "id": "5b7b"
     }
 ]

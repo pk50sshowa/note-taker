@@ -38,6 +38,7 @@ router.post('/notes', (req, res) => {
   }
 });
 
+// Code to remove notes with a delete request
 router.delete("/notes/:id", (req, res) => {
   const id = req.params.id;
   readAndRemove(id, "./db/db.json");
