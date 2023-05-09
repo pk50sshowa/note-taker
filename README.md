@@ -24,7 +24,7 @@ This is an application that can store notes and their associated titles from a u
 Make sure to install node.js, and express.js. Heroku is used for deployment.
 
 ## [USAGE](#usage)
-This app is loaded from the https://safe-savannah-84705.herokuapp.com/, and notes and their associated titles can be input on the main page. Notes can be deleted from the main page as well.
+This app is loaded from the https://note-taker-express-js-pjk.herokuapp.com/, and notes and their associated titles can be input on the main page. Notes can be deleted from the main page as well.
 
 ## [LICENSE](#license)
 MIT
